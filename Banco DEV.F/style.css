@@ -1,0 +1,178 @@
+@media screen and (min-width: 720px) {
+  body {
+    background-color: rgb(19, 17, 17);
+   
+  }
+}
+
+.body {
+  background-color: rgb(179 107 107);
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  position: fixed;
+  align-items: center;
+  background-color: rgb(179, 26, 26);
+  left: 0px;
+  top: 0px;
+  right: 0px;
+}
+#home {
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  background-color: rgb(39, 38, 38);
+  margin: 20px;
+  margin-top: 5px;
+  padding: 8px;
+  border-radius: 3px;
+  border: rgb(150, 147, 147);
+}
+#div-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#icono {
+  border-radius: 50%;
+  height: 55px;
+  width: 60px;
+  padding: 5px;
+  margin-left: 35px;
+  margin-right: 20px;
+}
+#div-img {
+  display: flex;
+  flex-direction: row;
+}
+    
+
+
+
+#ingreso {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#imag {
+  display: flex;
+  margin-top: 68px;
+  border-radius: 5px;
+  width: 616px;
+  height: 245px;
+  margin-left: 40px;
+}
+.input-1 {
+  display: flex;
+  margin: 8px 0;
+  font-size: 22px;
+  margin-left: 220px;
+  color: black;
+  margin-right: 203px
+}
+#input-especial-0{
+  color: black;
+margin-left: 50px;
+margin-right: 50px;
+font-size: 30px;
+}
+#input-especial-1{
+  color: black;
+  font-size: 30px;
+  margin-left: 50px;
+margin-right: 50px;
+}
+
+#buton {
+  display: flex;
+  margin: 8px 0;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  width: 175px;
+  height: 47px;
+  background: red;
+  color: #fff;
+  border: 0;
+  border-radius: 75pt;
+  padding: 18px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+
+
+.bienvenido {
+  display: flex;
+  margin-left: 233px;
+  margin-right: 186px;
+  padding: 5px;
+  padding-left: 17px;
+  background-color: rgb(179, 26, 26);
+  color: rgb(221, 218, 218);
+  border: solid 4px black;
+  margin-top: 105px;
+}
+.mini-titulo{
+  display: flex;
+  margin-left: 120px;
+  margin-right: 367px;
+    margin-top: 10px;
+  border: solid 5px black;
+  background-color: rgb(63, 61, 61);
+  color: aliceblue;
+  padding: 5px;
+}
+.boton-de-salida {
+  display: flex;
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  background-color: rgb(39, 38, 38);
+  margin: -45px;
+  margin-left: 820px;
+  margin-bottom: 15px;
+  padding: 8px;
+  border-radius: 3px;
+  border: rgb(150, 147, 147);
+}
+
+.container {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+
+#text{
+  display: flex;
+  color: beige;
+  background-color: black;
+
+}
+.estilo{
+  text-decoration: none;
+}
+
+#ingreso_ccontainer{
+  display: flex;
+  border: 3px solid;
+  margin-top: 40px;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e1b8ba;
+}
+
+#root_ingreso1{
+ display: flex;
+ color: red;
+}
+#root_ingreso2{
+  display: flex;
+  color: red;
+}
+.root-0{
+  font-size: 20px;
+}

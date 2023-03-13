@@ -1,0 +1,172 @@
+@media screen and (min-width: 720px) {
+  body {
+    background-color: rgb(19, 17, 17);
+   
+  }
+}
+
+.body {
+    background-color: rgb(179 107 107);
+  }
+  header {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    position: fixed;
+    align-items: center;
+    background-color: rgb(179, 26, 26);
+    left: 0px;
+    top: 0px;
+    right: 0px;
+  }
+  #home {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    background-color: rgb(39, 38, 38);
+    margin: 20px;
+    margin-top: 5px;
+    padding: 8px;
+    border-radius: 3px;
+    border: rgb(150, 147, 147);
+  }
+  #div-11 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  #icono {
+    border-radius: 50%;
+    height: 55px;
+    width: 60px;
+    padding: 5px;
+    margin-left: 35px;
+    margin-right: 20px;
+  }
+  #div-img {
+    display: flex;
+    flex-direction: row;
+  }
+
+
+
+
+  .boton-de-salida {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    background-color: rgb(39, 38, 38);
+    margin: 11px;
+    margin-left: 820px;
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 3px;
+    border: rgb(150, 147, 147);
+  }
+  .container-0{
+    margin-top: 110px;
+    display: flex;
+    width: 359px;
+    height: 359px;
+    margin-left: 468px;
+    margin-right: 301px;
+  }
+.container-1{
+  display: flex;
+    margin-top: -304px;
+    margin-left: 122px;
+    margin-right: 889px;
+    flex-direction: column;
+    align-items: center;
+
+}
+.container-2{
+  display: flex;
+    margin-top: -232px;
+    margin-left: 890px;
+    margin-right: 89px;
+    flex-direction: column;
+    align-items: center;
+}
+.botones-left{
+display: flex;
+justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  width: 175px;
+  height: 47px;
+  background: red;
+  color: #fff;
+  border: 0;
+  border-radius: 75pt;
+  padding: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.botones-rigth{
+  display: flex;
+  justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 175px;
+    height: 47px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 30px;
+  }
+  .container-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 128px;
+    margin-left: 49px
+  }
+.botones-1{
+  display: flex;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: red;
+}
+
+
+
+
+
+
+.suma{
+  display: flex;
+  flex-direction: column;
+  margin-left: 530px;
+  margin-right: 482px;
+    padding-bottom: 0px;
+    margin-top: 50px;
+    border: 3px solid;
+    
+}
+#numero-sumado{
+  margin-left: 38px;
+  margin-right: 10px;
+  font-size: large;
+}
+#buttton{
+  margin-left: 130px;
+}
+#root_1{
+  display: flex;
+ border: 3px solid;
+}
+#calculadora_1{
+  margin-left: 89px;
+  margin-top: 30px;
+    color: white;
+    margin-right: 18px;
+}
+
