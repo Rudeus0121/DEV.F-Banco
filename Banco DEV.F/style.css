@@ -1,7 +1,6 @@
 @media screen and (min-width: 720px) {
   body {
     background-color: rgb(19, 17, 17);
-   
   }
 }
 
@@ -48,9 +47,6 @@ header {
   display: flex;
   flex-direction: row;
 }
-    
-
-
 
 #ingreso {
   display: flex;
@@ -71,19 +67,19 @@ header {
   font-size: 22px;
   margin-left: 220px;
   color: black;
-  margin-right: 203px
+  margin-right: 203px;
 }
-#input-especial-0{
+#input-especial-0 {
   color: black;
-margin-left: 50px;
-margin-right: 50px;
-font-size: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 30px;
 }
-#input-especial-1{
+#input-especial-1 {
   color: black;
   font-size: 30px;
   margin-left: 50px;
-margin-right: 50px;
+  margin-right: 50px;
 }
 
 #buton {
@@ -103,8 +99,6 @@ margin-right: 50px;
   cursor: pointer;
 }
 
-
-
 .bienvenido {
   display: flex;
   margin-left: 233px;
@@ -116,11 +110,11 @@ margin-right: 50px;
   border: solid 4px black;
   margin-top: 105px;
 }
-.mini-titulo{
+.mini-titulo {
   display: flex;
   margin-left: 120px;
   margin-right: 367px;
-    margin-top: 10px;
+  margin-top: 10px;
   border: solid 5px black;
   background-color: rgb(63, 61, 61);
   color: aliceblue;
@@ -146,17 +140,16 @@ margin-right: 50px;
   justify-content: space-between;
 }
 
-#text{
+#text {
   display: flex;
   color: beige;
   background-color: black;
-
 }
-.estilo{
+.estilo {
   text-decoration: none;
 }
 
-#ingreso_ccontainer{
+#ingreso_ccontainer {
   display: flex;
   border: 3px solid;
   margin-top: 40px;
@@ -165,14 +158,14 @@ margin-right: 50px;
   background-color: #e1b8ba;
 }
 
-#root_ingreso1{
- display: flex;
- color: red;
-}
-#root_ingreso2{
+#root_ingreso1 {
   display: flex;
   color: red;
 }
-.root-0{
+#root_ingreso2 {
+  display: flex;
+  color: red;
+}
+.root-0 {
   font-size: 20px;
 }
